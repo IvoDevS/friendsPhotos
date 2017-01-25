@@ -7,7 +7,7 @@
 //
 
 import Foundation
-
+// HELLO FROM JOHANN 
 class Photo {
     var name : String
     var fileName : String
